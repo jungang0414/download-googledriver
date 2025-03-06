@@ -25,7 +25,7 @@ package.json
 
 ## 配置
 
-1. 將你的 Google Drive 服務帳戶密鑰文件放置在專案根目錄，並命名為 [check-driver-service-account.json](https://github.com/jungang0414/download-googledriver/images/create-key.PNG)。
+1. 將你的 Google Drive 服務帳戶密鑰文件放置在專案根目錄，並命名為 [check-driver-service-account.json](https://github.com/jungang0414/download-googledriver/blob/main/images/create-key.PNG)。
 
 2. 在 `index.js` 中修改成你要下載的雲端資料夾 ID 和本地存放路徑：
     ```js
